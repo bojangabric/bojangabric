@@ -8,16 +8,16 @@ I'm Bojan, a Full-Stack Developer based in Belgrade, who specializes in building
 
 **Languages and tools I tend to use the most**
 
-<img height="30" src="./images/javascript.png">
-<img height="30" src="./images/react.png">
-<img height="30" src="./images/vue.png">
-<img height="30" src="./images/html.png">
-<img height="30" src="./images/css.png">
+<img height="30" src="images/javascript.png">
+<img height="30" src="images/react.png">
+<img height="30" src="images/vue.png">
+<img height="30" src="images/html.png">
+<img height="30" src="images/css.png">
 <br>
-<img height="30" src="./images/laravel.png">
-<img height="30" style="padding-left:7px;" src="./images/nodejs.png">
-<img height="30" src="./images/python.png">
+<img height="30" src="images/laravel.png">
+<img height="30" style="padding-left:7px;" src="images/nodejs.png">
+<img height="30" src="images/python.png">
 <br>
-<img height="30" src="./images/vscode.png">
-<img height="30" style="padding-left:4px;" src="./images/figma.png">
-<img height="30" style="padding-left:2px;" src="./images/docker.png">
+<img height="30" src="images/vscode.png">
+<img height="30" style="padding-left:4px;" src="images/figma.png">
+<img height="30" style="padding-left:2px;" src="images/docker.png">
