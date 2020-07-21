@@ -8,16 +8,22 @@ I'm Bojan, a Full-Stack Developer based in Belgrade, who specializes in building
 
 **Languages and tools I tend to use the most**
 
-<img height="30" src="images/javascript.png">
-<img height="30" src="images/react.png">
-<img height="30" src="images/vue.png">
-<img height="30" src="images/html.png">
-<img height="30" src="images/css.png">
-<br>
-<img height="30" src="images/laravel.png">
-<img height="30" style="padding-left:7px;" src="images/nodejs.png">
-<img height="30" src="images/python.png">
-<br>
-<img height="30" src="images/vscode.png">
-<img height="30" style="padding-left:4px;" src="images/figma.png">
-<img height="30" style="padding-left:2px;" src="images/docker.png">
+<p float="left">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/javascript.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/react.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/vue.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/html.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/css.png">
+</p>
+
+<p float="left">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/laravel.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/nodejs.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/python.png">
+</p>
+
+<p float="left">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/vscode.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/figma.png">
+<img height="30" src="https://github.com/bojangabric/bojangabric/raw/master/images/docker.png">
+</p>
