@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Bojan, a Full-Stack Developer based in Belgrade, who specializes in building (and occasionally designing) websites and applications.
+I'm Bojan, a Freelance Web Developer based in Belgrade, who specializes in building (and occasionally designing) websites and applications.
 
 - 🔭 Currently helping early-stage startups kick-off their MVP
 - 🌱 On the side, I’m learning about UI & UX Design and Game Development (Unity)
